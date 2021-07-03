@@ -17,7 +17,7 @@ require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/buicongtan1997/protoc-gen-swagger-config v0.0.0-20190801162412-b6396e884596
 	github.com/campoy/embedmd v1.0.0
-	github.com/daixiang0/gci v0.2.8
+	github.com/daixiang0/gci v0.2.9
 	github.com/davidlazar/go-crypto v0.0.0-20200604182044-b73af7476f6c // indirect
 	github.com/denisbrodbeck/machineid v1.0.1
 	github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f // indirect
@@ -106,9 +106,9 @@ require (
 	golang.org/x/tools v0.1.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/genproto v0.0.0-20201022181438-0ff5f38871d5 // indirect
-	google.golang.org/grpc v1.37.0
+	google.golang.org/grpc v1.39.0
 	google.golang.org/grpc/examples v0.0.0-20200922230038-4e932bbcb079
-	gopkg.in/square/go-jose.v2 v2.5.1
+	gopkg.in/square/go-jose.v2 v2.6.0
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/gorm v1.21.9
 	moul.io/godev v1.7.0
